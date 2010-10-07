@@ -24,13 +24,13 @@ name: Cheat-Meta
 provides:
   Bundle::Cheat::Sheet:
     file: lib/Bundle/Cheat/Sheet.pm
-    version: v0.0.3
+    version: v0.0.4
   Cheat::Meta:
     file: lib/Cheat/Meta.pm
-    version: v0.0.3
+    version: v0.0.4
 requires:
   perl: 5.008008
 resources:
   license: http://www.perlfoundation.org/artistic_license_2_0
   repository: http://github.com/Xiong/cheat-meta
-version: v0.0.3
+version: v0.0.4
